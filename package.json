@@ -6,6 +6,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "@tensorflow/tfjs": "^3.11.0",
+    "chokidar": "^1.7.0",
     "eslint": "^8.2.0",
     "graphql": "^16.0.1",
     "graphql-request": "^3.6.1",
